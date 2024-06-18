@@ -52,3 +52,57 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+
+
+THE ANSWER TO MY ASSIGNMENT
+(APOLOGIES; I HAVE JUST LEARNT HOW TO FOLK AND PULL REQUEST, ATTEMPTING WITH MY WEEK 2 ASSIGNMENT)
+Name; James Wesley Buluma
+Email: jameswesleyblu@gmail.com
+GitHub: wesleybluish@gmail.com
+
+
+Taking each task at a time:
+
+1. Selecting Operating System (OS):
+Based on the instructions, I was required to download and install Windows 11 from the Microsoft website: https://www.microsoft.com/software-download/windows11 ; Unfortunately, My PC does not meet the minimum requirements to install windows 11   
+
+2. Install a Text Editor or Integrated Development Environment (IDE):
+ Successfully installed VS Code, and all the extensions necessary for this particular class.
+
+3. Set Up Version Control System:
+Successfully installed git from the official Git website: https://git-scm.com/downloads and created a GitHub account by visiting https://github.com; wesleybluish@gmail.com. Upon  installing Git, I open ed the terminal/command prompt and ran the following commands to configure Git with my GitHub account:
+     git config --global user.name "WesleyBluish"
+     git config --global user.email "wesleybluish@gmail.com"
+     ```
+   I successfully ran the following commands to initialize a new Git repository:
+     mkdir my-assignment
+     cd my-assignment
+     git init
+I created a new file, e.g., `README.md`, and added this content (MY WEEK 2 ASSIGNMENT) to it, staged and committed the changes:
+     git add README.md
+     git commit -m "Initial commit"
+
+4. Install Necessary Programming Languages and Runtimes:
+I visited the Python website (http://www.python.org) and downloaded the latest version of Python for Windows. That is Python 3.12.4. I ran the installer and followed the prompts to install Python on my machine.
+
+5. Installed Package Managers:
+Since Python comes with pip (package installer for Python) that is pre-installed. I just updated it.
+
+6. Configuration of a Database (MySQL):
+ From the MySQL website (https://dev.mysql.com/downloads/windows/installer/5.7.html) I downloaded the MySQL installer for Windows, ran the installer, and followed the prompts to install MySQL on your machine. I faced a little challenge installing the MySQL Workbench.
+
+7. Didn’t get around to setting Up Development Environments and Virtualization (Optional): Since some of them were a bit complex and sophisticated. It is still a work in progress as I will need it later in my learning and career. 
+
+8. Exploring Extensions and Plugins was much easier as most of the ones we needed were well explained in class during the online morning and afternoon classes. 
+d.
+
+9. Documentation of my Setups:
+Create a new document (e.g., in a word processor or Markdown format) and document the steps you followed to set up your developer environment. Include screenshots where necessary to illustrate specific steps or configurations.
+Reflecting on some of the challenges I faced during the setup process and how I overcame them;
+1.	Compatibility Issues: There can be great difficulties in ensuring that all the required tools, programming languages, frameworks, and libraries and the operating system as a whole are compatible with one another. This is because the various Installations may not be compatible with each other or other Installations from this or other producers, which results in clashes or errors at the Install or Make time or when the program is running.
+2.	Dependency Management: Several elements required by today’s applications and frameworks are numerous and managing them and updating them at times, proves to be a task that will not be very easy. Dependencies management hierarchies, versions, and availability of all necessary libraries can be a tricky task and it may take a lot of time to resolve all the conflicts and properly set them.
+3.	System Configuration: Correct system settings, environment variables, and paths constitute an essential precondition for the correct work of development tools and applications. Some of the problems that can arise when setting up options are tools not being identified or applications do not function as required.
+Provided below are screenshots of how I managed to do the Assignment(WEEK 2)
+     
+
